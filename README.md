@@ -92,12 +92,21 @@ Building the future of onchain automation:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=frosty720&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=frosty720&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=frosty720&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=frosty720&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=frosty720&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea"/>
+    <img width="49%" src="https://streak-stats.demolab.com/?user=frosty720&theme=tokyonight&hide_border=true"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frosty720&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frosty720&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8"/>
+    <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frosty720&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  </picture>
 </p>
 
 ---
@@ -105,20 +114,31 @@ Building the future of onchain automation:
 ## 🏆 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/frosty720/KalyDAO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frosty720&repo=KalyDAO&theme=tokyonight&hide_border=true&bg_color=0d1117"/></a>
-  <a href="https://github.com/frosty720/kusd-keeper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frosty720&repo=kusd-keeper&theme=tokyonight&hide_border=true&bg_color=0d1117"/></a>
+  <a href="https://github.com/frosty720/KalyDAO">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=frosty720&repo=KalyDAO&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  </a>
+  <a href="https://github.com/frosty720/kusd-keeper">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=frosty720&repo=kusd-keeper&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/frosty720/K_Oracles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=frosty720&repo=K_Oracles&theme=tokyonight&hide_border=true&bg_color=0d1117"/></a>
-  <a href="https://github.com/KalyCoinProject/kalychain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KalyCoinProject&repo=kalychain&theme=tokyonight&hide_border=true&bg_color=0d1117"/></a>
+  <a href="https://github.com/frosty720/K_Oracles">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=frosty720&repo=K_Oracles&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  </a>
+  <a href="https://github.com/KalyCoinProject/kalychain">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KalyCoinProject&repo=kalychain&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  </a>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=frosty720&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=frosty720&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=frosty720&theme=tokyo-night&hide_border=true&area=true"/>
+</picture>
 
 ---
 
