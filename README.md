@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://frostylabs.ai"><img src="https://img.shields.io/badge/🧊_FrostyLabs.ai-Visit_Site-667eea?style=for-the-badge"/></a>
   <a href="https://kalychain.io"><img src="https://img.shields.io/badge/⛓️_KalyChain-Explore-764ba2?style=for-the-badge"/></a>
-  <a href="https://twitter.com/frostydev720"><img src="https://img.shields.io/badge/𝕏-@frostydev720-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://twitter.com/frostydev720"><img src="https://img.shields.io/badge/𝕏-@frosty_onchain-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 <p align="center">
